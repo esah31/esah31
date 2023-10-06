@@ -4,12 +4,8 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/esahoosa/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/esahoosa/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/esahoosa/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/esahoosa/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/esahoosa/azure-network-protocols)
-  - [Virtual Private Network Creation and Management Utilizing ProtonVPN within Azure VM](http://github.com/esahoosa/azure-vpn)
 
 <h2>🤳Connect with me:</h2>
 
