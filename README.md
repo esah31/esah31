@@ -1,6 +1,6 @@
-<h1>Hi, I'm Esah, an <a href="https://linkedin.com/in/Esah-Nadeem">IT Professional</h1>
+<h1>Hi, I'm Esah, a <a href="https://linkedin.com/in/Esah-Nadeem">Programming Enthusiast</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Cool Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/esahoosa/osticket-prereqs)
