@@ -1,4 +1,4 @@
-<h1>Hi, I'm Esah, a <a href="https://linkedin.com/in/Esah-Nadeem">Programming Enthusiast</h1>
+<h1>Hi, I'm Esah, a <a href="https://linkedin.com/in/Esah-Nadeem">Developer</h1>
 
 <h2>👨‍💻 Cool Projects:</h2>
 
