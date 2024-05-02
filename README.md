@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cool Projects:</h2>
 
 - <b>Procrastination Killer App</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/esah31/go-productivtiy-app)
-- <b>JSON CRUD Web API w/ Gin/Gorm</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/esah31/go-crud-api)
+  - [Full Stack Productivity App](https://github.com/esah31/go-productivtiy-app)
+- <b>JSON CRUD Web API using Gin/Gorm</b>
+  - [JSON CRUD API](https://github.com/esah31/go-crud-api)
 
 <h2>🤳Connect with me:</h2>
 
