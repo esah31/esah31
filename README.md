@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Cool Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/esahoosa/osticket-prereqs)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/esahoosa/configure-ad)
+- <b>Procrastination Killer App</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/esah31/go-productivtiy-app)
+- <b>JSON CRUD Web API w/ Gin/Gorm</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/esah31/go-crud-api)
 
 <h2>🤳Connect with me:</h2>
 
